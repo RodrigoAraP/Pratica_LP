@@ -2,6 +2,9 @@
 
 configurações:
 Java JDK 17
+import java.util.Random; 
+import java.util.Scanner; 
+import java.io.IOException;
 
 Como usar:
 
